@@ -20,3 +20,4 @@ The Weather Journal app displays the weather temperature for today's date and ke
 * JAVASCRIPT
 
 ## Link
+![weather app](https://user-images.githubusercontent.com/114902383/219584998-0f8fcbf9-a37f-4843-bb9c-568df0a14021.PNG)

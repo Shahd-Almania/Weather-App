@@ -5,7 +5,7 @@
 * [Instructions](#instructions)
 * [Description](#description)
 * [Languages](#languages)
-* [Link](#link)
+* [ScreenShoot](#screenshoot)
 
 
 ## Instructions
@@ -19,5 +19,5 @@ The Weather Journal app displays the weather temperature for today's date and ke
 * CSS
 * JAVASCRIPT
 
-## Link
-![weather app](https://user-images.githubusercontent.com/114902383/219584998-0f8fcbf9-a37f-4843-bb9c-568df0a14021.PNG)
+## ScreenShoot
+![weather app](https://user-images.githubusercontent.com/114902383/219881248-73d49b80-862f-4fd9-86fc-885a13443cf0.PNG)
